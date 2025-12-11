@@ -3,7 +3,42 @@ guid: e0d46ea326f55ec4095fc03351464b47
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BackCabinet
+    second: {fileID: 2100000, guid: fafcd4ed52a4e81418116fca4e96110f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BaseCabinet
+    second: {fileID: 2100000, guid: bdfbf0a2c2e33604db422c354b080e5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Beam5
+    second: {fileID: 2100000, guid: d37f3475b6df7104bba42d04941c0d59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 94d7086ff28892249afc62ba4388c112, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GlassPlane
+    second: {fileID: 2100000, guid: 8c959637dbe35ba4cb4e5f123aff813e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TopBaseCabinet
+    second: {fileID: 2100000, guid: 116a5b5c814d5b14284e2aff7ddae5bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TopCabinet
+    second: {fileID: 2100000, guid: 492af28cfdbf02b4e8819ce0afaebad2, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
